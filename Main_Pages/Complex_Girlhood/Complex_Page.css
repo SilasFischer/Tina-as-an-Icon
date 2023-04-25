@@ -76,3 +76,9 @@ footer {
 .p-footer {
 	font-size: .6rem;
 }
+
+h1 {
+	font-family: 'Vina Sans', cursive;
+	color: rgba(31, 68, 110, 1.0);
+	font-stretch: semi-expanded;
+}
